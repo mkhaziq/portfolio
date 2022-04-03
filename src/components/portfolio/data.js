@@ -11,21 +11,21 @@ const data = [
         "image": IMG3,
         "title": 'Keeper App',
         "github": 'https://github.com/mkhaziq/',
-        "demo": 'https://mkhaziq.github.io/Keeper/'
+        "live": 'https://mkhaziq.github.io/Keeper/'
     },
     {
         "id":2,
         "image": IMG2,
         "title": 'Tindog Website',
         "github": 'https://github.com/mkhaziq/',
-        "demo": 'https://mkhaziq.github.io/TinDog/'
+        "live": 'https://mkhaziq.github.io/TinDog/'
     },
     {
         "id":1,
         "image": IMG1,
         "title": 'Dice, University Assignment',
         "github": 'https://github.com/mkhaziq/',
-        "demo": 'https://mkhaziq.github.io/Dice/'
+        "live": 'https://mkhaziq.github.io/Dice/'
     },
     {
         "id":4,
